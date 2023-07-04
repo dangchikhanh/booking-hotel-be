@@ -25,7 +25,7 @@ public class AuthenticationService {
         var user = User.builder()
                 .firstName(request.getFirstName())
                 .lastName(request.getLastName())
-                .phonenumber(request.getPhoneNumber())
+                .phonenumber(request.getPhonenumber())
                 .email(request.getEmail())
                 .address(request.getAddress())
                 .password(passwordEncoder.encode(request.getPassword()))
