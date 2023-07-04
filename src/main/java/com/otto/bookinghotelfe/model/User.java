@@ -22,10 +22,10 @@ public class User implements UserDetails {
     private Long userId;
     private String firstName;
     private String lastName;
-    private String userEmail;
-    private String userPhone;
-    private String userAddress;
-    private String userImage;
+    private String email;
+    private String phonenumber;
+    private String address;
+    private String image;
     private String password;
     @Enumerated(EnumType.STRING)
     private Role role;
@@ -42,7 +42,7 @@ public class User implements UserDetails {
 
     @Override
     public String getUsername() {
-        return userEmail;
+        return email;
     }
 
     @Override
