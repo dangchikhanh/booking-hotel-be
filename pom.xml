@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.otto</groupId>
-	<artifactId>booking-hotel-fe</artifactId>
+	<artifactId>booking-hotel-be</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>booking-hotel-fe</name>
-	<description>booking-hotel-fe</description>
+	<name>booking-hotel-be</name>
+	<description>booking-hotel-be</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

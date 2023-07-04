@@ -1,4 +1,4 @@
-package com.otto.bookinghotelfe.service;
+package com.otto.bookinghotelbe.service;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

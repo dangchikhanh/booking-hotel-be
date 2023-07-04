@@ -1,11 +1,11 @@
-package com.otto.bookinghotelfe.service;
+package com.otto.bookinghotelbe.service;
 
-import com.otto.bookinghotelfe.auth.AuthenticateResponse;
-import com.otto.bookinghotelfe.auth.AuthenticationRequest;
-import com.otto.bookinghotelfe.auth.RegisterRequest;
-import com.otto.bookinghotelfe.model.Role;
-import com.otto.bookinghotelfe.model.User;
-import com.otto.bookinghotelfe.repository.UserRepository;
+import com.otto.bookinghotelbe.auth.AuthenticateResponse;
+import com.otto.bookinghotelbe.auth.AuthenticationRequest;
+import com.otto.bookinghotelbe.auth.RegisterRequest;
+import com.otto.bookinghotelbe.model.Role;
+import com.otto.bookinghotelbe.model.User;
+import com.otto.bookinghotelbe.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

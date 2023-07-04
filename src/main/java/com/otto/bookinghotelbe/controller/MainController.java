@@ -1,4 +1,4 @@
-package com.otto.bookinghotelfe.controller;
+package com.otto.bookinghotelbe.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

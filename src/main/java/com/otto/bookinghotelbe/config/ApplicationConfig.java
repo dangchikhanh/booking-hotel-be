@@ -1,6 +1,6 @@
-package com.otto.bookinghotelfe.config;
+package com.otto.bookinghotelbe.config;
 
-import com.otto.bookinghotelfe.repository.UserRepository;
+import com.otto.bookinghotelbe.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

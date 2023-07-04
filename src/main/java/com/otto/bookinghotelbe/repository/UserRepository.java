@@ -1,6 +1,6 @@
-package com.otto.bookinghotelfe.repository;
+package com.otto.bookinghotelbe.repository;
 
-import com.otto.bookinghotelfe.model.User;
+import com.otto.bookinghotelbe.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

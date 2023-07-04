@@ -1,13 +1,13 @@
-package com.otto.bookinghotelfe;
+package com.otto.bookinghotelbe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BookingHotelFeApplication {
+public class BookingHotelBeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BookingHotelFeApplication.class, args);
+		SpringApplication.run(BookingHotelBeApplication.class, args);
 	}
 
 }

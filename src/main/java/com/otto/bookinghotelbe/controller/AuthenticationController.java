@@ -1,9 +1,9 @@
-package com.otto.bookinghotelfe.controller;
+package com.otto.bookinghotelbe.controller;
 
-import com.otto.bookinghotelfe.auth.AuthenticateResponse;
-import com.otto.bookinghotelfe.auth.AuthenticationRequest;
-import com.otto.bookinghotelfe.auth.RegisterRequest;
-import com.otto.bookinghotelfe.service.AuthenticationService;
+import com.otto.bookinghotelbe.auth.AuthenticateResponse;
+import com.otto.bookinghotelbe.auth.AuthenticationRequest;
+import com.otto.bookinghotelbe.auth.RegisterRequest;
+import com.otto.bookinghotelbe.service.AuthenticationService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

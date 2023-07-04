@@ -1,6 +1,6 @@
-package com.otto.bookinghotelfe.config;
+package com.otto.bookinghotelbe.config;
 
-import com.otto.bookinghotelfe.service.JWTService;
+import com.otto.bookinghotelbe.service.JWTService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

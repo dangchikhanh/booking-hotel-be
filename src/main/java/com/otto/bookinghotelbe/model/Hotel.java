@@ -1,4 +1,4 @@
-package com.otto.bookinghotelfe.model;
+package com.otto.bookinghotelbe.model;
 
 import jakarta.persistence.*;
 import lombok.*;

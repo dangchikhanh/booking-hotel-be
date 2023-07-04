@@ -1,4 +1,4 @@
-package com.otto.bookinghotelfe.config;
+package com.otto.bookinghotelbe.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

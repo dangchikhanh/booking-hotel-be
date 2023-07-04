@@ -1,4 +1,4 @@
-package com.otto.bookinghotelfe.model;
+package com.otto.bookinghotelbe.model;
 
 public enum Role {
     USER,
